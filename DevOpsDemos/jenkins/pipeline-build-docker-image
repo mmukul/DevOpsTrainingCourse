@@ -1,0 +1,24 @@
+pipeline{
+    agent any
+    tools {
+    maven 'maven2'
+    }
+    
+    stages{
+        stage("Git Checkout"){
+            steps{
+                git url:"https://github.com/mmukul/my-demo-app"
+            }
+        }
+        stage("Maven Package"){
+            steps{
+                sh "mvn clean package"
+            }
+        }
+        stage("Docker Build"){
+            steps{
+                sh "docker build -t mmukul:mydemoapp ."
+            }
+        }
+    }
+}
