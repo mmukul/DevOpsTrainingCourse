@@ -12,12 +12,10 @@ sudo yum -y install vim wget docker java-11-openjdk
 
 ## Download Maven Binary
 sudo wget https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.tar.gz -P /opt
+sudo tar xvf apache-maven-3.8.6-bin.tar.gz
 sudo mv apache-maven-3.8.6 apache-maven
 
-
-## Extract & set Environment variables for Maven
-sudo tar xvf apache-maven-3.8.6-bin.tar.gz
-
+## Create maven.sh & insert the parameter
 sudo vim /etc/profile.d/maven.sh
 export M2_HOME=/opt/apache-maven
 export PATH=${M2_HOME}/bin:${PATH}
