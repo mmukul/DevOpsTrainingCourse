@@ -19,7 +19,7 @@ sudo mv apache-maven-3.8.6 apache-maven
 sudo tar xvf apache-maven-3.8.6-bin.tar.gz
 
 sudo vim /etc/profile.d/maven.sh
-export M2_HOME=/opt/maven
+export M2_HOME=/opt/apache-maven
 export PATH=${M2_HOME}/bin:${PATH}
 
 sudo chmod +x /etc/profile.d/maven.sh
