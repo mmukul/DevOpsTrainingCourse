@@ -23,7 +23,7 @@ export M2_HOME=/opt/apache-maven
 export PATH=${M2_HOME}/bin:${PATH}
 
 sudo chmod +x /etc/profile.d/maven.sh
-sudo source /etc/profile.d/maven.sh
+source /etc/profile.d/maven.sh
 
 ## Install Jenkins Server on CentOS 7
 sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
