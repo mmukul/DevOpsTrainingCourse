@@ -27,8 +27,8 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 ### Fees
 - Contact for more details,
- - @smilemukul2005@gmail.com
- - @wattsapp: 7769929666
+  - @smilemukul2005@gmail.com
+  - @wattsapp: 7769929666
 - Course Interested i.e Foundation or Advanced
 
 ## Course curriculum
@@ -49,11 +49,11 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Developer/coding workflows
 - Branching and merging Concepts
 - Working with Remote Repositories
- - Pull
- - Push
- - Fetch
- - Fork
- - Cherry Pick
+  - Pull
+  - Push
+  - Fetch
+  - Fork
+  - Cherry Pick
 - Practical Demo
 - Practice Assignment
 
