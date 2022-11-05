@@ -73,17 +73,17 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Understanding of images and containers
 - Introduction to Docker Networking
 - Container Life Cycle
-- Hands-on and Practical
+- Practical Demo
 - Practice Assignment
 
 ### Continuous Deployment
-- Continuous Deployment with Jenkins
+- Continuous Deployment on Docker using Jenkins
 
 ### Configuration Management with Ansible
 - Introduction and Installation of Ansible
 - Writing Playbooks with YAML file
 - Executing Ad-hoc command
-- Hands-on and Practical
+- Practical Demo
 - Practice Assignment
 
 ### Interview preparation (Optional)
