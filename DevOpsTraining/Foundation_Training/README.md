@@ -1,10 +1,10 @@
 ## DevOps Training:
 
 ### Training Level
-- Foundation (Beginner) course with Practical Demo & Assignments (CLI & UI)
+- Foundation course with Practical Demo & Assignments (CLI & UI)
 
 ### Training Batch
-- Weekdays/Weekends
+- Weekdays/Weekends Batch
 
 ### Pre-requisites
 Learners should have a technical background with an understanding of Linux fundamentals
@@ -17,16 +17,19 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 ### Training Key Features
 - Live, online classroom training by experienced instructors
+- Training involves whiteboard, Quiz, Assignments and Practical Demos
 - Flexibility and adjustable class timings
 - Doubt Resolution Sessions
+- Customized Learning
+- Weekday/Weekend Batches
 - DevOps Interview preparation (If required)
 - Career Guidance (If required)
-- Customized Learning
-- Weekend Batches
 
 ### Fees
-- Contact @smilemukul2005@gmail.com for more details
-- Course Interested i.e Foundation, Advanced, Fast-Track and Specialized Courses (Terraform)
+- Contact for more details,
+ - @smilemukul2005@gmail.com
+ - @wattsapp: 7769929666
+- Course Interested i.e Foundation or Advanced
 
 ## Course curriculum
 - Fundamentals of Linux and commands
@@ -34,16 +37,24 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 ### Overview of DevOps
 - Why DevOps?
 - What is DevOps?
+- Waterfall Model (Traditional)
+- Agile (New Methodologies)
 - DevOps Market Trends
-- DevOps Delivery Pipeline
+- What is a Pipeline?
 
 ### Version Control with Git
 - What is version control
-- What is Git
-- Git workflows
-- Branching and Merging in Git
+- Central and Distributed Version Control
+- What is Git?
+- Developer/coding workflows
+- Branching and merging Concepts
 - Working with Remote Repositories
-- Hands-on and Practical: Git workflows on GitHub UI, Branching, merging
+ - Pull
+ - Push
+ - Fetch
+ - Fork
+ - Cherry Pick
+- Practical Demo
 - Practice Assignment
 
 ### Continuous Integration (CI) Pipeline with Jenkins
@@ -51,9 +62,10 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Why is CI Required?
 - Introduction to Jenkins
 - Introduction to Maven
-- Adding a slave node to Jenkins
+- Jenkins Architecture
+- Adding a slave node to Jenkins Master
 - Webhooks
-- Hands-on and Practical
+- Practical Demo
 - Practice Assignment
 
 ### Containerization using Docker
