@@ -67,7 +67,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Practical Demo
 - Practice Assignment
 
-### Introduction to Maven
+### Build Tool: Introduction to Maven
 - Maven Architecture
 - Maven build lifecycle
 
