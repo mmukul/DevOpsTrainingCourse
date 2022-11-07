@@ -61,12 +61,15 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - What is CI (Continuous Integration)?
 - Why is CI Required?
 - Introduction to Jenkins
-- Introduction to Maven
 - Jenkins Architecture
 - Adding a slave node to Jenkins Master
 - Webhooks
 - Practical Demo
 - Practice Assignment
+
+### Introduction to Maven
+- Maven Architecture
+- Maven build lifecycle
 
 ### Containerization using Docker
 - Introduction to Docker and Container
@@ -78,6 +81,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 ### Continuous Deployment
 - Continuous Deployment on Docker using Jenkins
+- Practical Demo
 
 ### Configuration Management with Ansible
 - Introduction and Installation of Ansible
@@ -86,4 +90,5 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Practical Demo
 - Practice Assignment
 
-### Interview preparation (Optional)
+### Project
+- CICD pipeline for Java project
