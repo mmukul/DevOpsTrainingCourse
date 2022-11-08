@@ -67,6 +67,19 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
   - Kubernetes Setup – Kubeadm
   - Hands-on and Practical
 
-### Observability and Monitoring
-- Prometheus
-- Grafana
+### Continous Deployment using Terraform
+- Infrastructure as Code using Terraform
+- Terraform vs other tools (Chef & Puppet)
+- Overview of HashiCorp Configuration Language
+- Installation of Terraform in Linux
+- Terraform commands and usage
+- Providers in Terraform
+- Understanding Terraform variables
+- Using provisioners in Terraform
+- Understanding Terraform State
+- Configuring EC2 Instances
+- Working with Terraform Modules
+
+### Continuous Monitoring using Promethus and Grafana
+- Overview of Logging and Monitoring
+- Monitoring using Prometheus and Grafana
