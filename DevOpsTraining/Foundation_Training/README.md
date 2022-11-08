@@ -34,7 +34,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 ## Course curriculum
 - Fundamentals of Linux and commands
 
-### Overview of DevOps
+### DevOps Essentials
 - Why DevOps?
 - What is DevOps?
 - Waterfall Model (Traditional)
@@ -42,7 +42,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - DevOps Market Trends
 - What is a Pipeline?
 
-### Version Control with Git
+### Managing Source Control with Git
 - What is version control
 - Central and Distributed Version Control
 - What is Git?
@@ -57,6 +57,15 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Practical Demo
 - Practice Assignment
 
+### Understanding and working with Build Tool - Maven
+- Overview of Various Build tools
+- What is Maven
+- Maven Plugins
+- Maven Archetypes
+- Project Object Model (POM)
+- Source Control Integration
+- Maven build lifecycle
+
 ### Continuous Integration (CI) Pipeline with Jenkins
 - What is CI (Continuous Integration)?
 - Why is CI Required?
@@ -66,10 +75,6 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Webhooks
 - Practical Demo
 - Practice Assignment
-
-### Build Tool: Introduction to Maven
-- Maven Architecture
-- Maven build lifecycle
 
 ### Containerization using Docker
 - Introduction to Docker and Container
@@ -83,10 +88,26 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Continuous Deployment on Docker using Jenkins
 - Practical Demo
 
+### Introduction to Kubernetes
+- Basics of Kubernetes container orchestration
+- Differences between Docker Swarm and Kubernetes
+- Kubernetes Architecture
+- Installing Kubernetes using Kubeadm
+- Creating Pods and Deployments using YAML
+- Selectors & Labels in Kubernetes
+- Using ReplicaSets & Rolling Updates
+- Scheduling the applications on the container
+- Services in Kubernetes
+
 ### Configuration Management with Ansible
-- Introduction and Installation of Ansible
-- Writing Playbooks with YAML file
-- Executing Ad-hoc command
+- Overview of Configuration Management
+- Introduction to Ansible
+- Ansible Architecture
+- Ansible Components
+- Installation & Configuration
+- Writing Ansible Playbooks
+- Working with Ansible variables
+- Working with Ansible Modules
 - Practical Demo
 - Practice Assignment
 
