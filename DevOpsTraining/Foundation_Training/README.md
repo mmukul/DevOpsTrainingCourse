@@ -10,7 +10,7 @@
 Learners should have a technical background with an understanding of Linux fundamentals
 
 ### Target Audience
-This DevOps Online Training will be suitable for software developers, technical project managers, architects, operations support, deployment engineers, IT managers, and development managers.
+This DevOps Online Training will be suitable for software developers, technical project managers, architects, operations support, deployment engineers, Freshers and Induction Batch
 
 ### Program Overview
 This DevOps Program will provide you with in-depth knowledge of various DevOps tools including Git, Jenkins, Docker, Ansible and designed in a way to help you gain knowledge through best practices in CICD (Continuous Integration & Continuous Deployment) and finally, Continuous Monitoring of software throughout its development life cycle.
@@ -25,22 +25,29 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - DevOps Interview preparation (If required)
 - Career Guidance (If required)
 
+### Course Duration: 1.5 to 2 months
+
 ### Fees
 - Contact for more details,
   - @smilemukul2005@gmail.com
   - @wattsapp: 7769929666
 - Course Interested i.e Foundation or Advanced
 
+
 ## Course curriculum
 - Fundamentals of Linux and commands
+
+### Waterfall Model (Traditional)
 
 ### DevOps Essentials
 - Why DevOps?
 - What is DevOps?
-- Waterfall Model (Traditional)
-- Agile (New Methodologies)
 - DevOps Market Trends
 - What is a Pipeline?
+
+### Introduction to Agile
+- Agile Methodology
+- Daily Stand-ups
 
 ### Managing Source Control with Git
 - What is version control
