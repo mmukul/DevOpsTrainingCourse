@@ -25,13 +25,12 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - DevOps Interview preparation (If required)
 - Career Guidance (If required)
 
-### Course Duration: 1.5 to 2 months
+### Course Duration: 2 months
 
 ### Fees
 - Contact for more details,
   - @smilemukul2005@gmail.com
   - @wattsapp: 7769929666
-- Course Interested i.e Foundation or Advanced
 
 
 ## Course curriculum
