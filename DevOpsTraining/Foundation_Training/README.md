@@ -34,7 +34,6 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 
 ## Course curriculum
-- Fundamentals of Linux and commands
 
 ### Waterfall Model (Traditional)
 
