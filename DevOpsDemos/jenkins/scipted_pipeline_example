@@ -1,0 +1,9 @@
+node {
+        stage("Build") {
+            echo 'Building'
+        }
+
+        stage("Test") {
+            echo 123
+        }
+    }
