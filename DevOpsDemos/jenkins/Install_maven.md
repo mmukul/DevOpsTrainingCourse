@@ -10,9 +10,8 @@ mvn -v
 ```
 sudo vi /etc/profile.d/maven.sh
 export JAVA_HOME=/usr/lib/jvm/default-java
-export M2_HOME=/opt/apache-maven-3.8.6
 export MAVEN_HOME=/opt/apache-maven-3.8.6
-export PATH=${M2_HOME}/bin:${PATH}
+export PATH=${MAVEN_HOME}/bin:${PATH}
 ```
 
 ```
