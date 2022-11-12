@@ -1,7 +1,5 @@
 pipeline {
-    agent {
-        
-    }
+    agent
     stages {
         stage('Build') {
             steps {
@@ -13,9 +11,9 @@ pipeline {
                 sh 'mvn test'
             }
         }
-        stage('Deliver') {
+        stage('Package') {
             steps {
-                sh './jenkins/scripts/deliver.sh'
+                sh 'mvn package'
             }
         }
     }
