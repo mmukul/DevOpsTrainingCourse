@@ -2,11 +2,6 @@ pipeline {
     agent any
 
     stages{
-        stage("Git Checkout"){
-            steps{
-                git url:"https://github.com/mmukul/devops_class"
-            }
-        }
         stage('Build') {
             steps {
                 sh 'mvn -B -DskipTests clean package'
