@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Deliver') {
             steps {
-                sh 'java -jar target/my-app-1.0-SNAPSHOT.jar'
+                sh 'java -jar /var/jenkins/workspace/Java_Project_Pipeline/target/my-app-1.0-SNAPSHOT.jar'
             }
         }
     }
