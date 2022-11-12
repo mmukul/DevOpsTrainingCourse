@@ -17,10 +17,5 @@ pipeline {
                 sh 'mvn package'
             }
         }
-        stage('Deliver') {
-            steps {
-                sh 'java -jar /var/jenkins/workspace/Java_Project_Pipeline/target/my-app-1.0-SNAPSHOT.jar'
-            }
-        }
     }
 }
