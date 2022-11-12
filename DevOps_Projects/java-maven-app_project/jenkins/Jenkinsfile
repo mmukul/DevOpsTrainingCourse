@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Deliver') {
             steps {
-                sh './DevOps_Projects/java-maven-app_project/jenkins/scripts/deliver.sh'
+                sh 'java -jar target/my-app-1.0-SNAPSHOT.jar'
             }
         }
     }
