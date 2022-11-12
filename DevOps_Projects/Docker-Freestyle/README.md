@@ -9,5 +9,3 @@
 - Specify branch to build the job
 - Invoke top-level Maven targets i.e. Maven version & Goals
 - Specify the POM.xml directory path
-
-### Expect from Project
