@@ -12,9 +12,9 @@ pipeline {
                 sh 'mvn test'
             }
         }
-        stage('Deliver') {
+        stage('Package') {
             steps {
-                sh './DevOps_Projects/java-maven-app_project/jenkins/scripts/deliver.sh'
+                sh 'mvn package'
             }
         }
     }
