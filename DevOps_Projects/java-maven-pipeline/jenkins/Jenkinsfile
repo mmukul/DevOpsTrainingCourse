@@ -17,10 +17,5 @@ pipeline {
                 sh 'mvn test'
             }
         }
-        stage('Build Docker Image') {
-            steps {
-                sh 'docker build -t smilemukul/my-dockerapp:1.0 DevOps_Projects/java-maven-pipeline/Dockerfile'
-            }
-        }
     }
 }
