@@ -24,7 +24,7 @@ resource "aws_vpc" "my-vpc" {
 resource "aws_subnet" "web-subnet-1" {
   vpc_id                  = aws_vpc.my-vpc.id
   cidr_block              = "10.0.1.0/24"
-  availability_zone       = "us-east-1a"
+  availability_zone       = "ap-south-1a"
   map_public_ip_on_launch = true
 
   tags = {
@@ -35,7 +35,7 @@ resource "aws_subnet" "web-subnet-1" {
 resource "aws_subnet" "web-subnet-2" {
   vpc_id                  = aws_vpc.my-vpc.id
   cidr_block              = "10.0.2.0/24"
-  availability_zone       = "us-east-1b"
+  availability_zone       = "ap-south-1b"
   map_public_ip_on_launch = true
 
   tags = {
@@ -47,7 +47,7 @@ resource "aws_subnet" "web-subnet-2" {
 resource "aws_subnet" "application-subnet-1" {
   vpc_id                  = aws_vpc.my-vpc.id
   cidr_block              = "10.0.11.0/24"
-  availability_zone       = "us-east-1a"
+  availability_zone       = "ap-south-1a"
   map_public_ip_on_launch = false
 
   tags = {
@@ -58,7 +58,7 @@ resource "aws_subnet" "application-subnet-1" {
 resource "aws_subnet" "application-subnet-2" {
   vpc_id                  = aws_vpc.my-vpc.id
   cidr_block              = "10.0.12.0/24"
-  availability_zone       = "us-east-1b"
+  availability_zone       = "ap-south-1b"
   map_public_ip_on_launch = false
 
   tags = {
@@ -70,7 +70,7 @@ resource "aws_subnet" "application-subnet-2" {
 resource "aws_subnet" "database-subnet-1" {
   vpc_id            = aws_vpc.my-vpc.id
   cidr_block        = "10.0.21.0/24"
-  availability_zone = "us-east-1a"
+  availability_zone = "ap-south-1a"
 
   tags = {
     Name = "Database-1"
@@ -80,22 +80,22 @@ resource "aws_subnet" "database-subnet-1" {
 resource "aws_subnet" "database-subnet-2" {
   vpc_id            = aws_vpc.my-vpc.id
   cidr_block        = "10.0.22.0/24"
-  availability_zone = "us-east-1b"
+  availability_zone = "ap-south-1b"
 
   tags = {
     Name = "Database-2"
   }
 }
 
-/*resource "aws_subnet" "database-subnet" {
+resource "aws_subnet" "database-subnet" {
   vpc_id            = aws_vpc.my-vpc.id
   cidr_block        = "10.0.3.0/24"
-  availability_zone = "us-east-1a"
+  availability_zone = "ap-south-1a"
 
   tags = {
     Name = "Database"
   }
-}*/
+}
 
 # Create Internet Gateway
 resource "aws_internet_gateway" "igw" {
@@ -135,7 +135,7 @@ resource "aws_route_table_association" "b" {
 resource "aws_instance" "webserver1" {
   ami                    = "ami-0d5eff06f840b45e9"
   instance_type          = "t2.micro"
-  availability_zone      = "us-east-1a"
+  availability_zone      = "ap-south-1a"
   vpc_security_group_ids = [aws_security_group.webserver-sg.id]
   subnet_id              = aws_subnet.web-subnet-1.id
   user_data              = file("sample_script.sh")
@@ -149,7 +149,7 @@ resource "aws_instance" "webserver1" {
 resource "aws_instance" "webserver2" {
   ami                    = "ami-0d5eff06f840b45e9"
   instance_type          = "t2.micro"
-  availability_zone      = "us-east-1b"
+  availability_zone      = "ap-south-1b"
   vpc_security_group_ids = [aws_security_group.webserver-sg.id]
   subnet_id              = aws_subnet.web-subnet-2.id
   user_data              = file("sample_script.sh")
