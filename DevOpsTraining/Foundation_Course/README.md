@@ -117,4 +117,5 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Practice Assignment
 
 ### Project
-- CICD pipeline for Java project
+- Freestyle Jenkins job to build & compile Java project using build tool i.e. maven
+- Declarative pipeline in Jenkins to build Java application docker image & then push the image to dockerhub
