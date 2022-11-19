@@ -1,7 +1,7 @@
 ## DevOps Training:
 
 ### Training Level
-- Foundation course with Practical Demo & Assignments (CLI & UI)
+- Foundation course with Practical Demo and Assignments (CLI & UI)
 
 ### Training Batch
 - Weekdays/Weekends Batch
@@ -28,9 +28,8 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 ### Course Duration: 2 months
 
 ### Fees
-- Contact for more details,
-  - @smilemukul2005@gmail.com
-  - @wattsapp: 7769929666
+- Contact for more details:
+  - wattsapp: 7769929666
 
 
 ## Course curriculum
