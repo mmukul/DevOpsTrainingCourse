@@ -1,1 +1,0 @@
-# 3-tier Application Project on AWS
