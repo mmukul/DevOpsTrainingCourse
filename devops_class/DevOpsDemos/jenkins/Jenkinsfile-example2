@@ -1,0 +1,23 @@
+pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            when {
+                anyOf { 
+			branch 'main'; branch 'staging' 
+		}
+            }
+            steps {
+                echo 'Hello World'
+            }
+        }
+        stage('Deploy') {
+            when {
+                branch 'production'
+            }
+            steps {
+                echo 'Deploying'
+            }
+        }
+    }
+}
