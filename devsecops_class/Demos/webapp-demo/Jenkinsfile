@@ -22,7 +22,6 @@ pipeline {
                 sh 'mvn test'
             }
         }
-    
     stage ('Check Git Secrets') {
       steps {
         sh 'rm trufflehog || true'
