@@ -31,8 +31,8 @@ sudo mv apache-maven-3.8.6 apache-maven
 ### Create maven.sh & insert the parameter
 sudo vim /etc/profile.d/maven.sh
 ```
-export HOME=/opt/apache-maven
-export PATH=${HOME}/bin:${PATH}
+export MAVEN_HOME=/opt/apache-maven
+export PATH=${MAVEN_HOME}/bin:${PATH}
 ```
 
 ### Grant execute permission
