@@ -34,9 +34,9 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 ## Course curriculum
 
-Module 1: Waterfall Model (Traditional)
+## Module 1: Waterfall Model (Traditional)
 
-### DevOps Essentials
+## Module 2: DevOps Essentials
 - Why DevOps?
 - What is DevOps?
 - DevOps Market Trends
