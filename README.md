@@ -1,10 +1,10 @@
-## DevOps Training:
+## DevOps Online Instructor-Led Training:
 
 ### Training Level
 - Foundation course with Practical Demo and Assignments (CLI & UI)
 
 ### Training Batch
-- Weekdays/Weekends Batch
+- Weekends Batch
 
 ### Pre-requisites
 Learners should have a technical background with an understanding of Linux fundamentals
