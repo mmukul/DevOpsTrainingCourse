@@ -1,10 +1,10 @@
-## DevOps Training:
+## DevOps Online Instructor-Led Training:
 
 ### Training Level
 - Foundation course with Practical Demo and Assignments (CLI & UI)
 
 ### Training Batch
-- Weekdays/Weekends Batch
+- Weekends Batch
 
 ### Pre-requisites
 Learners should have a technical background with an understanding of Linux fundamentals
@@ -29,24 +29,24 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 ### Fees
 - Contact for more details:
-  - wattsapp: 7769929666
+  - wattsapp: smilemukul2005@gmail.com
 
 
 ## Course curriculum
 
-## Module 1: Waterfall Model (Traditional)
+### Module 1: Waterfall Model (Traditional)
 
-## Module 2: DevOps Essentials
+### Module 2: DevOps Essentials
 - Why DevOps?
 - What is DevOps?
 - DevOps Market Trends
 - What is a Pipeline?
 
-### Introduction to Agile
+### Module 3: Introduction to Agile
 - Agile Methodology
 - Daily Stand-ups
 
-### Managing Source Control with Git
+### Module 4: Managing Source Control with Git
 - What is version control
 - Central and Distributed Version Control
 - What is Git?
@@ -61,7 +61,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Practical Demo
 - Practice Assignment
 
-### Understanding and working with Build Tool - Maven
+### Module 5: Understanding and working with Build Tool - Maven
 - Overview of Various Build tools
 - What is Maven
 - Maven Plugins
@@ -70,7 +70,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Source Control Integration
 - Maven build lifecycle
 
-### Continuous Integration (CI) Pipeline with Jenkins
+### Module 6: Continuous Integration (CI) Pipeline with Jenkins
 - What is CI (Continuous Integration)?
 - Why is CI Required?
 - Introduction to Jenkins
@@ -80,7 +80,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Practical Demo
 - Practice Assignment
 
-### Containerization using Docker
+### Module 7: Containerization using Docker
 - Introduction to Docker and Container
 - Understanding of images and containers
 - Introduction to Docker Networking
@@ -88,11 +88,11 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Practical Demo
 - Practice Assignment
 
-### Continuous Deployment
+### Module 8: Continuous Deployment
 - Continuous Deployment on Docker using Jenkins
 - Practical Demo
 
-### Introduction to Kubernetes
+### Module 9: Introduction to Kubernetes
 - Basics of Kubernetes container orchestration
 - Differences between Docker Swarm and Kubernetes
 - Kubernetes Architecture
@@ -103,7 +103,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Scheduling the applications on the container
 - Services in Kubernetes
 
-### Configuration Management with Ansible
+### Module 10: Configuration Management with Ansible
 - Overview of Configuration Management
 - Introduction to Ansible
 - Ansible Architecture
