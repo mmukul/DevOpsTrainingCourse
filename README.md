@@ -29,7 +29,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 ### Fees
 - Contact for more details:
-  - wattsapp: 7769929666
+  - wattsapp: smilemukul2005@gmail.com
 
 
 ## Course curriculum
