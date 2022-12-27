@@ -34,19 +34,19 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 ## Course curriculum
 
-## Module 1: Waterfall Model (Traditional)
+### Module 1: Waterfall Model (Traditional)
 
-## Module 2: DevOps Essentials
+### Module 2: DevOps Essentials
 - Why DevOps?
 - What is DevOps?
 - DevOps Market Trends
 - What is a Pipeline?
 
-## Module 3: Introduction to Agile
+### Module 3: Introduction to Agile
 - Agile Methodology
 - Daily Stand-ups
 
-## Module 4: Managing Source Control with Git
+### Module 4: Managing Source Control with Git
 - What is version control
 - Central and Distributed Version Control
 - What is Git?
@@ -61,7 +61,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Practical Demo
 - Practice Assignment
 
-## Module 5: Understanding and working with Build Tool - Maven
+### Module 5: Understanding and working with Build Tool - Maven
 - Overview of Various Build tools
 - What is Maven
 - Maven Plugins
@@ -70,7 +70,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Source Control Integration
 - Maven build lifecycle
 
-## Module 6: Continuous Integration (CI) Pipeline with Jenkins
+### Module 6: Continuous Integration (CI) Pipeline with Jenkins
 - What is CI (Continuous Integration)?
 - Why is CI Required?
 - Introduction to Jenkins
@@ -80,7 +80,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Practical Demo
 - Practice Assignment
 
-## Module 7: Containerization using Docker
+### Module 7: Containerization using Docker
 - Introduction to Docker and Container
 - Understanding of images and containers
 - Introduction to Docker Networking
@@ -88,11 +88,11 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Practical Demo
 - Practice Assignment
 
-## Module 8: Continuous Deployment
+### Module 8: Continuous Deployment
 - Continuous Deployment on Docker using Jenkins
 - Practical Demo
 
-## Module 9: Introduction to Kubernetes
+### Module 9: Introduction to Kubernetes
 - Basics of Kubernetes container orchestration
 - Differences between Docker Swarm and Kubernetes
 - Kubernetes Architecture
@@ -103,7 +103,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Scheduling the applications on the container
 - Services in Kubernetes
 
-## Module 10: Configuration Management with Ansible
+### Module 10: Configuration Management with Ansible
 - Overview of Configuration Management
 - Introduction to Ansible
 - Ansible Architecture
