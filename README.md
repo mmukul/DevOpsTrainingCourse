@@ -57,8 +57,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
   - Fetch
   - Fork
   - Cherry Pick
-- Practical Demo
-- Practice Assignment
+- **Practical Demo**
 
 ### Chapter 5: Understanding and working with Build Tool - Maven
 - Overview of Various Build tools
@@ -76,20 +75,18 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Jenkins Architecture
 - Adding a slave node to Jenkins Master
 - Webhooks
-- Practical Demo
-- Practice Assignment
+- **Practical Demo**
 
 ### Chapter 7: Containerization using Docker
 - Introduction to Docker and Container
 - Understanding of images and containers
 - Introduction to Docker Networking
 - Container Life Cycle
-- Practical Demo
-- Practice Assignment
+- **Practical Demo**
 
 ### Chapter 8: Continuous Deployment
 - Continuous Deployment on Docker using Jenkins
-- Practical Demo
+- **Practical Demo**
 
 ### Chapter 9: Introduction to Kubernetes
 - Basics of Kubernetes container orchestration
@@ -111,8 +108,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Writing Ansible Playbooks
 - Working with Ansible variables
 - Working with Ansible Modules
-- Practical Demo
-- Practice Assignment
+- **Practical Demo**
 
 ### Project
 - Freestyle Jenkins job to build & compile Java project using build tool i.e. maven
