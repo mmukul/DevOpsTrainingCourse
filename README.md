@@ -27,7 +27,6 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 ### Course Registration Details:
 - Duration: 40 hours
-- Pricing: 20,000 INR
 - Registration Form: https://forms.gle/gVjz7BA4G38NnYf48
 
 
