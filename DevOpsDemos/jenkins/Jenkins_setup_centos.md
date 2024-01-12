@@ -18,14 +18,14 @@ sudo yum -y install vim wget docker java-11-openjdk
 
 ### Download Maven Binary
 ```
-sudo wget https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.tar.gz -P /opt
+sudo wget https://dlcdn.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.tar.gz -P /opt
 ```
 
 ### Change directory to /opt, extract apache and rename extracted folder
 ```
 cd /opt
-sudo tar xvf apache-maven-3.8.6-bin.tar.gz
-sudo mv apache-maven-3.8.6 apache-maven
+sudo tar xvf apache-maven-3.9.6-bin.tar.gz
+sudo mv apache-maven-3.9.6 apache-maven
 ```
 
 ### Create maven.sh & insert the parameter
