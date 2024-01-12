@@ -43,8 +43,8 @@ source /etc/profile.d/maven.sh
 
 ### Install Jenkins Server on CentOS 7
 ```
-sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
 sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
+sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key
 sudo yum update -y
 sudo yum install jenkins -y
 ```
