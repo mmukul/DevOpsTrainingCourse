@@ -7,7 +7,7 @@
 
 ### System upgrade
 ```
-sudo yum update && sudo yum upgrade -y
+sudo yum update -y
 ```
 
 ### Install Java
@@ -46,7 +46,7 @@ source /etc/profile.d/maven.sh
 sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
 sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
 sudo yum update -y
-sudo yum install jenkins
+sudo yum install jenkins -y
 ```
 
 ### Enable port 8080/tcp on the firewall
