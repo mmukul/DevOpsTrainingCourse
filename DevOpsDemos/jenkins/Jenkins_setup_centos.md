@@ -45,21 +45,17 @@ source /etc/profile.d/maven.sh
 ```
 sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
 sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key
-sudo yum update -y
-sudo yum install jenkins -y
+sudo yum -y update && yum -y install jenkins
 ```
 
 ### Enable port 8080/tcp on the firewall
 ```
-sudo firewall-cmd --add-port=8080/tcp --permanent
-sudo firewall-cmd --reload
-sudo firewall-cmd --list-all
+sudo firewall-cmd --add-port=8080/tcp --permanent && firewall-cmd --reload && firewall-cmd --list-all
 ```
 
 ### Start Jenkins service
 ```
-sudo systemctl enable jenkins
-sudo systemctl start jenkins
+sudo systemctl enable jenkins && systemctl start jenkins
 ```
 
 ### Access Jenkins web URL
