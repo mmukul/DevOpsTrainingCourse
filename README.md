@@ -27,7 +27,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 ### Course Registration Details:
 - Duration: 40 hours
-- Registration Form: https://forms.gle/gVjz7BA4G38NnYf48
+- Contact @ 7769929666 (WhatsApp) for batch availability and fees
 
 
 ## Course curriculum
