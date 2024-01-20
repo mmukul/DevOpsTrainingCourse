@@ -1,10 +1,14 @@
 ## DevOps Online Instructor-Led Training:
 
-### Training Level
-- Foundation course with Practical Demo and Assignments (CLI & UI)
+### About Me:-
+18 years of total professional experience with IC, Architect, Consultant role and a freelance trainer as well as assist in Interview preparation, consult and Architect on projects in DevOps, DevSecOps, IaC,  Application Security and Container / Kubernetes Security.
 
-### Training Batch
-- Weekends and Weekdays Batches
+### Program Overview
+This DevOps Program will provide you with in-depth knowledge of various DevOps tools including Git, Jenkins, Docker, Ansible and designed in a way to help you gain knowledge through best practices in CICD (Continuous Integration & Continuous Deployment) and finally, Continuous Monitoring of software throughout its development life cycle.
+
+### Training Experience:-
+1. Delivered B2B DevOps training for freshers/Induction batch
+2. Delivered B2C DevSecOps training to lateral batch
 
 ### Pre-requisites
 Learners should have a technical background with an understanding of Linux fundamentals
@@ -12,22 +16,20 @@ Learners should have a technical background with an understanding of Linux funda
 ### Target Audience
 This DevOps Online Training will be suitable for software developers, technical project managers, architects, operations support, deployment engineers, Freshers and Induction Batch
 
-### Program Overview
-This DevOps Program will provide you with in-depth knowledge of various DevOps tools including Git, Jenkins, Docker, Ansible and designed in a way to help you gain knowledge through best practices in CICD (Continuous Integration & Continuous Deployment) and finally, Continuous Monitoring of software throughout its development life cycle.
+### Training Key Features:-
+1. Live, online classroom training by experienced instructor
+2. Training involves whiteboard and Practical Demos
+3. Flexible and adjustable class timings on Weekday/Weekend
+7. DevOps Interview preparation (If required)
+8. Career counseling for DevOps / DevSecOps as a career roadmap (If required)
+9. Lower course fees as compared to other Institutions
+10. Good Career prospects as per scope and demand
 
-### Training Key Features
-- Live, online classroom training by experienced instructors
-- Training involves whiteboard, Quiz, Assignments and Practical Demos
-- Flexibility and adjustable class timings
-- Doubt Resolution Sessions
-- Customized Learning
-- Weekday/Weekend Batches
-- DevOps Interview preparation (If required)
-- Career Guidance (If required)
-
-### Course Registration Details:
+### Course Duration:-
 - Duration: 40 hours
-- Contact @ 7769929666 (WhatsApp) for batch availability and fees
+
+### Enrolment in Course:-
+- Contact @ 7769929666 (WhatsApp) for batch availability, timings and course fees.
 
 
 ## Course curriculum
