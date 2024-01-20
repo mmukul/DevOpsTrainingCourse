@@ -28,7 +28,7 @@ This DevOps Online Training will be suitable for software developers, technical 
 ### Course Duration:-
 - Duration: 40 hours
 
-### Enrolment in Course:-
+### Enrolment-
 - Contact @ 7769929666 (WhatsApp) for batch availability, timings and course fees.
 
 
