@@ -60,7 +60,7 @@ This DevOps Online Training will be suitable for software developers, technical 
   - Cherry Pick
 - **Practical Demo**
 
-### Chapter 5: Understanding and working with Build Tool - Maven
+### Chapter 5: Understanding and working with Maven Build Tool - Eclipse IDE
 - Overview of Various Build tools
 - What is Maven
 - Maven Plugins
@@ -68,8 +68,11 @@ This DevOps Online Training will be suitable for software developers, technical 
 - Project Object Model (POM)
 - Source Control Integration
 - Maven build lifecycle
+- **Practical Demo**
 
-### Chapter 6: Continuous Integration (CI) Pipeline with Jenkins
+### Chapter 6: Setup Virtual Machines with VMware, Jenkins Master and Slave node
+
+### Chapter 7: Continuous Integration (CI) Pipeline with Jenkins
 - What is CI (Continuous Integration)?
 - Why is CI Required?
 - Introduction to Jenkins
@@ -78,18 +81,18 @@ This DevOps Online Training will be suitable for software developers, technical 
 - Webhooks
 - **Practical Demo**
 
-### Chapter 7: Containerization using Docker
+### Chapter 8: Containerization using Docker
 - Introduction to Docker and Container
 - Understanding of images and containers
 - Introduction to Docker Networking
 - Container Life Cycle
 - **Practical Demo**
 
-### Chapter 8: Continuous Deployment
+### Chapter 9: Continuous Deployment
 - Continuous Deployment on Docker using Jenkins
 - **Practical Demo**
 
-### Chapter 9: Introduction to Kubernetes
+### Chapter 10: Introduction to Kubernetes
 - Basics of Kubernetes container orchestration
 - Differences between Docker Swarm and Kubernetes
 - Kubernetes Architecture
@@ -100,7 +103,7 @@ This DevOps Online Training will be suitable for software developers, technical 
 - Scheduling the applications on the container
 - Services in Kubernetes
 
-### Chapter 10: Configuration Management with Ansible
+### Chapter 11: Configuration Management with Ansible
 - Overview of Configuration Management
 - Introduction to Ansible
 - Ansible Architecture
