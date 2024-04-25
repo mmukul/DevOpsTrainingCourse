@@ -95,7 +95,7 @@ This DevOps Online Training will be suitable for software developers, technical 
 ### Chapter 11: Continuous Deployment on Docker using Jenkins
 - **Practical Demo**
 
-### [Optional] Chapter 12: Introduction to Kubernetes
+### Chapter 12: [Optional] Introduction to Kubernetes
 - Basics of Kubernetes container orchestration
 - Differences between Docker Swarm and Kubernetes
 - Kubernetes Architecture
