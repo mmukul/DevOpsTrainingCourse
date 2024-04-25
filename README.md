@@ -26,7 +26,7 @@ This DevOps Online Training will be suitable for software developers, technical 
 10. Good Career prospects as per scope and demand
 
 ### Course Duration
-- Duration: 40 hours
+- Duration: 48 hours
 
 ### Enrolment
 - Contact @ 7769929666 (WhatsApp) for batch availability, timings and course fees.
@@ -46,7 +46,11 @@ This DevOps Online Training will be suitable for software developers, technical 
 - Agile Methodology
 - Daily Stand-ups
 
-### Chapter 4: Managing Source Control with Git
+### Chapter 4: GitHub Branching Strategy
+
+### Chapter 5: Developer Workflow on GitHub
+
+### Chapter 6: Managing Source Control with Git
 - What is version control
 - Central and Distributed Version Control
 - What is Git?
@@ -60,7 +64,7 @@ This DevOps Online Training will be suitable for software developers, technical 
   - Cherry Pick
 - **Practical Demo**
 
-### Chapter 5: Understanding and working with Maven Build Tool - Eclipse IDE
+### Chapter 7: Understanding and working with Maven Build Tool - Eclipse IDE
 - Overview of Various Build tools
 - What is Maven
 - Maven Plugins
@@ -70,9 +74,9 @@ This DevOps Online Training will be suitable for software developers, technical 
 - Maven build lifecycle
 - **Practical Demo**
 
-### Chapter 6: Setup Virtual Machines with VMware, Jenkins Master and Slave node
+### Chapter 8: Setup Virtual Machines with VMware, Jenkins Master and Slave node
 
-### Chapter 7: Continuous Integration (CI) Pipeline with Jenkins
+### Chapter 9: Continuous Integration (CI) Pipeline with Jenkins on Virtual Machine
 - What is CI (Continuous Integration)?
 - Why is CI Required?
 - Introduction to Jenkins
@@ -81,18 +85,17 @@ This DevOps Online Training will be suitable for software developers, technical 
 - Webhooks
 - **Practical Demo**
 
-### Chapter 8: Containerization using Docker
+### Chapter 10: Containerization using Docker
 - Introduction to Docker and Container
 - Understanding of images and containers
 - Introduction to Docker Networking
 - Container Life Cycle
 - **Practical Demo**
 
-### Chapter 9: Continuous Deployment
-- Continuous Deployment on Docker using Jenkins
+### Chapter 11: Continuous Deployment on Docker using Jenkins
 - **Practical Demo**
 
-### Chapter 10: Introduction to Kubernetes
+### [Optional] Chapter 12: Introduction to Kubernetes
 - Basics of Kubernetes container orchestration
 - Differences between Docker Swarm and Kubernetes
 - Kubernetes Architecture
@@ -103,7 +106,7 @@ This DevOps Online Training will be suitable for software developers, technical 
 - Scheduling the applications on the container
 - Services in Kubernetes
 
-### Chapter 11: Configuration Management with Ansible
+### Chapter 13: Configuration Management with Ansible
 - Overview of Configuration Management
 - Introduction to Ansible
 - Ansible Architecture
@@ -115,5 +118,5 @@ This DevOps Online Training will be suitable for software developers, technical 
 - **Practical Demo**
 
 ### Project
-- Freestyle Jenkins job to build & compile Java project using build tool i.e. maven
-- Declarative pipeline in Jenkins to build Java application docker image & then push the image to dockerhub
+- Freestyle Jenkins job to build and compile Java project using Maven build tool
+- Declarative pipeline in Jenkins to build Java application using docker image and then push the image to Dockerhub
