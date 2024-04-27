@@ -82,6 +82,7 @@ This DevOps Online Training will be suitable for software developers, technical 
 - Introduction to Jenkins
 - Jenkins Architecture
 - Adding a slave node to Jenkins Master
+- Declarative Pipeline using Pipeline as a Code (Jenkinsfile)
 - Webhooks
 - **Practical Demo**
 
