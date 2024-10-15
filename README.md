@@ -3,6 +3,10 @@
 YouTube Channel:
 https://www.youtube.com/@DevSecOps-Experts
 
+Website:
+https://devops-security-lab.odoo.com
+
+
 ### Program Overview
 This DevOps Program will provide you with in-depth knowledge of various DevOps tools including Git, Jenkins, Docker, Ansible and designed in a way to help you gain knowledge through best practices in CICD (Continuous Integration & Continuous Deployment) and finally, Continuous Monitoring of software throughout its development life cycle.
 
